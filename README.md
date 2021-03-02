@@ -13,8 +13,13 @@ You can run your application in dev mode that enables live coding using:
 
 ## Try it in your console
 
+```shell script
 curl -w "\n" http://localhost:8080/hello
+```
+
+```shell script
 curl -w "\n" http://localhost:8080/hello/greeting/fernandofuentesfullstack
+```
 
 ## Packaging and running the application
 
